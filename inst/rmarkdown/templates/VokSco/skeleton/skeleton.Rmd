@@ -1,0 +1,38 @@
+---
+title: "Analysis-independent Code" #title
+author: "Andrew Beattie" #author name
+date: "January 28, 2018" #date
+output: html_document #output type we want a HTML document
+csl: apa.csl 
+bibliography: Blog3.bib 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+#references will be generated here
+---
+
+@jac1984 describe a paradigm that proposes that human cognition is not a purely analytical process. The studies that looked at how experts process information are adept at providing support for this cognitive model that incorporates both analytical and non-analytical cognitive processes [@kim1992].  This idea would change how we view expertise, primarily that experts do not rely purely upon analytical reasoning but make use of memory and non-analytical factors.
+
+@nor1997 would find that non-analytic concept formation was important in clinicians’ diagnoses. Similarity would play a major factor in diagnosis; furthermore, experts were unable to predict the errors of other experts, indicating that there were not specific issues that made certain conditions hard to diagnose. Rather, it was that some experts had more experience with certain conditions than others, therefore they had an easier time diagnosing the slides pertaining to those conditions. 
+
+@thom2014 studied the differences between novices and experts in fingerprint discrimination. In the study, a number of experts and non-experts were tasked with identifying whether or not fingerprints were a match. The experts were more likely to use non-analytic approaches especially when there was limited or ambiguous information. This was contrasted by the novices who had no previous experiences to rely upon. The idea that experts in the field of fingerprint analysis would rely on neither theory or science but rather upon memory indicates that under certain conditions, a non-analytical approach is used by experts.
+
+Based on the studies that have been discussed, as well as other works by the researchers mentioned, it is clear that human cognitive processes are not purely analytical. Experiences play an important role in how we understand and approach new situations. One important conclusion that can be drawn from this is that when modelling human decision-making, statistical methods such as Bayesian or regression analysis are, in theory, not as appropriate as an artificial neural network because the latter can take cases into account. In this way, it can more accurately represent the human experience as seen with experts who, through experience, learn to recognize similar cases not based upon textbook formulaic patterns but through unique and non-critical features. 
+
+
+
+
+
+
+
+
+
+## References 
+
+---
+#references will be generated here
+---
